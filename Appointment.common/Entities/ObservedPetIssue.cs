@@ -10,6 +10,6 @@ namespace Appointment.common.Entities
     public class ObservedPetIssue
     {
         public int ObservedPetIssueID { get; set; }
-        public PetIssue PetIssueID { get; set; }
+        public PetIssue PetIssue { get; set; }
     }
 }

@@ -10,6 +10,6 @@ namespace Appointment.common.Entities
     public class DiagnosedSymptom
     {
         public int DiagnosedSymptomID { get; set; }
-        public Symptom SymptomID { get; set; }
+        public Symptom Symptom { get; set; }
     }
 }

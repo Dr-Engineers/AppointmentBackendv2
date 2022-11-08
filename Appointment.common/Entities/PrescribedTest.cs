@@ -10,6 +10,6 @@ namespace Appointment.common.Entities
     public class PrescribedTest
     {
         public int PrescribedTestID { get; set; }
-        public Test TestID{ get; set; }
+        public Test Test { get; set; }
     }
 }
